@@ -11,6 +11,6 @@
   "license": "ISC",
   "homepage": "https://achim-t.github.io/type_n_speak",
   "dependencies": {
-    "gh-pages": "^1.2.0"
+    "gh-pages": "^2.0.1"
   }
 }
