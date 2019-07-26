@@ -1,5 +1,6 @@
 const synth = window.speechSynthesis
 
+
 const textForm = document.querySelector('form')
 const textInput = document.querySelector('#text-input')
 const voiceSelect = document.querySelector('#voice-select')
